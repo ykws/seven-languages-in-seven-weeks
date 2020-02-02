@@ -5,7 +5,7 @@
 * [7つの言語 7つの世界](https://www.ohmsha.co.jp/book/9784274068577/)
 
 ## Table of Contents
-* [Ruby]()
+* [Ruby](https://github.com/ykws/hello-ruby)
 * [Io](https://github.com/ykws/hello-io)
 * [Prolog](https://github.com/ykws/hello-prolog)
 * [Scala]()
